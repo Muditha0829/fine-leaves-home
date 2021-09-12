@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fine-leaves-home/static/css/main.aa7852ee.chunk.css",
-    "main.js": "/fine-leaves-home/static/js/main.0914ea53.chunk.js",
-    "main.js.map": "/fine-leaves-home/static/js/main.0914ea53.chunk.js.map",
+    "main.js": "/fine-leaves-home/static/js/main.fcc21cc4.chunk.js",
+    "main.js.map": "/fine-leaves-home/static/js/main.fcc21cc4.chunk.js.map",
     "runtime-main.js": "/fine-leaves-home/static/js/runtime-main.d6463f2b.js",
     "runtime-main.js.map": "/fine-leaves-home/static/js/runtime-main.d6463f2b.js.map",
     "static/css/2.983f79de.chunk.css": "/fine-leaves-home/static/css/2.983f79de.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.983f79de.chunk.css",
     "static/js/2.02a43f9c.chunk.js",
     "static/css/main.aa7852ee.chunk.css",
-    "static/js/main.0914ea53.chunk.js"
+    "static/js/main.fcc21cc4.chunk.js"
   ]
 }
