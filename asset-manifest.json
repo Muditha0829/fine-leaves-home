@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/fine-leaves-home/static/css/main.aa7852ee.chunk.css",
+    "main.js": "/fine-leaves-home/static/js/main.0914ea53.chunk.js",
+    "main.js.map": "/fine-leaves-home/static/js/main.0914ea53.chunk.js.map",
+    "runtime-main.js": "/fine-leaves-home/static/js/runtime-main.d6463f2b.js",
+    "runtime-main.js.map": "/fine-leaves-home/static/js/runtime-main.d6463f2b.js.map",
+    "static/css/2.983f79de.chunk.css": "/fine-leaves-home/static/css/2.983f79de.chunk.css",
+    "static/js/2.02a43f9c.chunk.js": "/fine-leaves-home/static/js/2.02a43f9c.chunk.js",
+    "static/js/2.02a43f9c.chunk.js.map": "/fine-leaves-home/static/js/2.02a43f9c.chunk.js.map",
+    "static/js/3.96f13430.chunk.js": "/fine-leaves-home/static/js/3.96f13430.chunk.js",
+    "static/js/3.96f13430.chunk.js.map": "/fine-leaves-home/static/js/3.96f13430.chunk.js.map",
+    "index.html": "/fine-leaves-home/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/fine-leaves-home/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.aa7852ee.chunk.css.map": "/fine-leaves-home/static/css/main.aa7852ee.chunk.css.map",
+    "static/js/2.02a43f9c.chunk.js.LICENSE.txt": "/fine-leaves-home/static/js/2.02a43f9c.chunk.js.LICENSE.txt",
+    "static/media/1.554fd521.jpg": "/fine-leaves-home/static/media/1.554fd521.jpg",
+    "static/media/2.d0a07742.jpg": "/fine-leaves-home/static/media/2.d0a07742.jpg",
+    "static/media/3.368e78ee.jpg": "/fine-leaves-home/static/media/3.368e78ee.jpg",
+    "static/media/BOPF.63848d60.png": "/fine-leaves-home/static/media/BOPF.63848d60.png",
+    "static/media/FBOP.84c9d947.png": "/fine-leaves-home/static/media/FBOP.84c9d947.png",
+    "static/media/GT.a550fcfa.png": "/fine-leaves-home/static/media/GT.a550fcfa.png",
+    "static/media/OP.9f1fef42.png": "/fine-leaves-home/static/media/OP.9f1fef42.png",
+    "static/media/ST.203b8570.png": "/fine-leaves-home/static/media/ST.203b8570.png",
+    "static/media/footer.css": "/fine-leaves-home/static/media/banner1.fdebde77.jpg",
+    "static/media/black.8897b18a.png": "/fine-leaves-home/static/media/black.8897b18a.png",
+    "static/media/green.3cf8f07d.png": "/fine-leaves-home/static/media/green.3cf8f07d.png",
+    "static/media/herb.0b2896a5.png": "/fine-leaves-home/static/media/herb.0b2896a5.png",
+    "static/media/logo.e9e4ad98.png": "/fine-leaves-home/static/media/logo.e9e4ad98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6463f2b.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.02a43f9c.chunk.js",
+    "static/css/main.aa7852ee.chunk.css",
+    "static/js/main.0914ea53.chunk.js"
+  ]
+}
