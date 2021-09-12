@@ -6,7 +6,7 @@ import Explore from "./pages/Explore";
 function App() {
   return (
     <BrowserRouter>
-    <Route path="/" exact component={Home}/>
+    <Route path="/fine-leaves-home" exact component={Home}/>
     <Switch>
         <div>
       <Route path="/explore" component={Explore} />
